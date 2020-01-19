@@ -5,7 +5,7 @@
 Using npm:
 
 ```bash
-$ npm install axiosx
+$ npm install axiosx-api
 ```
 
 
