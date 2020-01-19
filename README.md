@@ -157,7 +157,7 @@ $ npm install axiosx-api
   import router from './router'
   import store from './store'
   
-  import axiosx, {API} from './axiosx'
+  import axiosx, {API} from 'axiosx-api'
   import urls from './urls'
   import axiosConfig from './axios.config'
   
